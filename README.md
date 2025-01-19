@@ -126,4 +126,3 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ---
 
-Dengan struktur file yang lebih rinci, README ini memudahkan siapa saja memahami alur proyek dan memulai kontribusi. 🎉
