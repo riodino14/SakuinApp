@@ -13,7 +13,6 @@ SakuinApp adalah aplikasi manajemen keuangan berbasis web yang dibangun dengan *
 - **Manajemen Transaksi**: Rekam pemasukan dan pengeluaran.  
 - **Kategori Keuangan**: Pengelompokkan transaksi berdasarkan kategori.  
 - **Laporan Keuangan**: Statistik keuangan dengan grafik interaktif.  
-- **User Management**: Role-Based Access Control untuk admin dan pengguna biasa.  
 - **Tampilan Modern**: UI responsif dan ramah pengguna.  
 
 ---
